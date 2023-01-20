@@ -38,7 +38,7 @@ Please note the some of the data has been modified for the purposes of
 demonstration so it should NOT be used for reporting and is not accurate
 in several important ways.
 
-## Code of Conduct
+## Code of Conduct 
 
 Please note that the experiencesdashboard project is released with a
 [Contributor Code of
